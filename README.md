@@ -79,7 +79,7 @@ flowchart LR
 | **Chen2025-SemiVar** | Location-gallery | [Enhancing Contrastive Learning for Geolocalization by Discovering Hard Negatives on Semivariograms](https://arxiv.org/abs/2509.21573) | SIGSPATIAL | 2025 |
 | **Concept-Aware** | Location-gallery | [Towards Interpretable Geo-localization: a Concept-Aware Global Image-GPS Alignment Framework](https://arxiv.org/abs/2509.01910) | arXiv | 2025 |
 | **GT-Loc** | Location-gallery | [GT-Loc: Unifying when and where in images through a joint embedding space](https://arxiv.org/abs/2507.10473) | ICCV | 2025 |
-| **HierLoc** | Location-gallery | [HierLoc: Hyperbolic Entity Embeddings for Hierarchical Visual Geolocation](https://arxiv.org/abs/2601.23064) | arXiv | 2026 |
+| **HierLoc** | Location-gallery | [HierLoc: Hyperbolic Entity Embeddings for Hierarchical Visual Geolocation](https://arxiv.org/abs/2601.23064) | ICLR | 2026 |
 | **GeoSURGE** | Location-gallery | [GeoSURGE: Geo-localization using Semantic Fusion with Hierarchy of Geographic Embeddings](https://arxiv.org/abs/2510.01448) | CVPR | 2026 |
 | **Pinpoint** | Location-gallery | [Pinpoint: Grounded Worldwide Image Geolocation via Cross-Source Retrieval and Reranking](https://arxiv.org/abs/2606.04133) | arXiv | 2026 |
 
@@ -102,9 +102,9 @@ flowchart LR
 |---|---|---|---|
 | **Img2Loc** | [Img2Loc: Revisiting image geolocalization using multi-modality foundation models and image-based retrieval-augmented generation](https://arxiv.org/abs/2403.19584) | SIGIR | 2024 |
 | **G3** | [G3: an effective and adaptive framework for worldwide geolocalization using large multi-modality models](https://arxiv.org/abs/2405.14702) | NeurIPS | 2024 |
-| **GeoToken** | [GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction](https://arxiv.org/abs/2511.01082) | arXiv | 2025 |
-| **GeoSearch** | [GeoSearch: Augmenting Worldwide Geolocalization with Web-Scale Reverse Image Search and Image Matching](https://arxiv.org/abs/2604.25390) | arXiv | 2026 |
-| **DualGeo** | [DualGeo: A Dual-View Framework for Worldwide Image Geo-localization](https://arxiv.org/abs/2604.25533) | arXiv | 2026 |
+| **GeoToken** | [GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction](https://arxiv.org/abs/2511.01082) | ICDM | 2025 |
+| **GeoSearch** | [GeoSearch: Augmenting Worldwide Geolocalization with Web-Scale Reverse Image Search and Image Matching](https://arxiv.org/abs/2604.25390) | SIGIR | 2026 |
+| **DualGeo** | [DualGeo: A Dual-View Framework for Worldwide Image Geo-localization](https://arxiv.org/abs/2604.25533) | ICME | 2026 |
 | **TransGeoCLIP** | [When Vision Misleads, Let Location Speak: A Worldwide Image Geo-Localization Method via Location Attention Mechanism and Large Multimodal Models](https://arxiv.org/abs/2606.08918) | arXiv | 2026 |
 
 ### Reasoning
@@ -115,10 +115,10 @@ flowchart LR
 | **GaGA** | Reasoning SFT | [GaGA: Towards interactive global geolocation assistant](https://arxiv.org/abs/2412.08907) | arXiv | 2024 |
 | **ETHAN** | Reasoning SFT | [Image-based geolocation using large vision-language models](https://arxiv.org/abs/2408.09474) | arXiv | 2024 |
 | **GeoLocSFT** | Reasoning SFT | [GeoLocSFT: Efficient visual geolocation via supervised fine-tuning of multimodal foundation models](https://arxiv.org/abs/2506.01277) | arXiv | 2025 |
-| **GeoReasoner** | Reasoning SFT | [GeoReasoner: Geo-localization with reasoning in street views using a large vision-language model](https://arxiv.org/abs/2406.18572) | arXiv | 2024 |
+| **GeoReasoner** | Reasoning SFT | [GeoReasoner: Geo-localization with reasoning in street views using a large vision-language model](https://arxiv.org/abs/2406.18572) | ICML | 2024 |
 | **GLOBE** | Reinforcement learning | [Recognition through reasoning: Reinforcing image geo-localization with large vision-language models](https://arxiv.org/abs/2506.14674) | NeurIPS | 2026 |
 | **GeoAgent** | Reinforcement learning | [GeoAgent: Learning to geolocate everywhere with reinforced geographic characteristics](https://arxiv.org/abs/2602.12617) | CVPR | 2026 |
-| **Geo-R** | Reinforcement learning | [Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach](https://arxiv.org/abs/2601.00388) | arXiv | 2026 |
+| **Geo-R** | Reinforcement learning | [Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach](https://arxiv.org/abs/2601.00388) | AAAI | 2026 |
 | **Geo-ADAPT** | Reinforcement learning | [Locatability-Guided Adaptive Reasoning for Image Geo-Localization with Vision-Language Models](https://arxiv.org/abs/2603.13628) | arXiv | 2026 |
 | **GRE Suite** | Reinforcement learning | [Gre suite: Geo-localization inference via fine-tuned vision-language models and enhanced reasoning chains](https://arxiv.org/abs/2505.18700) | NeurIPS | 2026 |
 | **GeoBayes** | Training-free structured reasoning | [GeoBayes: Probabilistic Image Geo-Localization Inference via Sequential Bayesian Updating](https://ojs.aaai.org/index.php/AAAI/article/view/37855) | AAAI | 2026 |
