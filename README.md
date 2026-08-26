@@ -2,7 +2,7 @@
 
 A curated list of papers, datasets, and benchmarks for **worldwide image geolocalization**: predicting the geographic location of an image taken anywhere on Earth, expressed as GPS coordinates, a geographic cell, or an administrative region. The task is open-world by nature: no reference collection provides complete imagery coverage of the planet, so a model must generalize to locations it has never observed.
 
-This repository accompanies our survey **"Worldwide Image Geolocalization in the Foundation Model Era: A Survey"** and follows its taxonomy. 
+This repository accompanies our survey [**"Worldwide Image Geolocalization in the Foundation Model Era: A Survey"**](https://www.preprints.org/manuscript/202608.1749) and follows its taxonomy. 
 
 ## Contents
 
